@@ -1,0 +1,28 @@
+h1 {
+  text-align: center;
+}
+.item {
+  background-color: black;
+  color: rgb(255, 255, 255);
+  padding: 30px;
+  border-radius: 5px;
+  text-align: center;
+}
+span {
+  color: gold;
+}
+p {
+  color: rgb(255, 253, 246);
+}
+a {
+  display: inline-block;
+  background: gold;
+  color: rgb(146, 27, 27);
+  padding: 10px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+}
